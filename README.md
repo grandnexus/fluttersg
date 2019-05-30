@@ -3,7 +3,7 @@
 # #Hack19: International Flutter Hackathon 2019 [Singapore Edition]
 
 <p align="center">
-    <a href="https://flawlessapp.io/feedback?github">
+    <a href="https://tiny.cc/flutterSG">
         <img src="flutter-hackathon-cover.png" alt="#Hack19: International Flutter Hackathon 2019 [Singapore Edition]"/>
     </a>
 </p>
