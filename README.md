@@ -52,8 +52,8 @@ World's first ever all-day International Flutter™ Hackathon organised by over 
 
 Building Blocks to Supercharge your App with RapidAPI!
 
-* [RapidAPI API Credit Request Form](https://docs.google.com/forms/d/e/1FAIpQLSev-1Fm9hvZBIT_EVuTEJnHg5wC-A2o-7yRhRXWIJwZJPg8sA/viewform) — API credits specially made for #Hack19: International Flutter Hackathon 2019  by [RapidAPI](https://rapidapi.com).
-* [RapidAPI Slack Invitation](https://join.slack.com/t/rakutenrapidapipublic/shared_invite/enQtNjA1MTY5MzI5MTM2LTVhNGUwOGEyNWMxY2FiYzMyYjliMjdjYzRjNjY1NDFhNTFmYTJjMjEyN2FiY2RiMDc1NjBiZWYyZDE3MmY2OTI) — <Hack the Hackathon/>100 Killer APIs for Hackathon Winners by [RapidAPI](https://rapidapi.com).
+* [RapidAPI API Credit Request Form](https://docs.google.com/forms/d/e/1FAIpQLSev-1Fm9hvZBIT_EVuTEJnHg5wC-A2o-7yRhRXWIJwZJPg8sA/viewform) — API credits specially made for #Hack19: International Flutter Hackathon 2019 by [RapidAPI](https://rapidapi.com).
+* [RapidAPI Slack Invitation](https://join.slack.com/t/rakutenrapidapipublic/shared_invite/enQtNjA1MTY5MzI5MTM2LTVhNGUwOGEyNWMxY2FiYzMyYjliMjdjYzRjNjY1NDFhNTFmYTJjMjEyN2FiY2RiMDc1NjBiZWYyZDE3MmY2OTI) — RapidAPI dedicated support specially made available for #Hack19: International Flutter Hackathon 2019 by [RapidAPI](https://rapidapi.com).
 * [Flutter Curated Collection](https://english.api.rakuten.net/collection/flutter) — curated APIs specially made for #Hack19: International Flutter Hackathon 2019 by [RapidAPI](https://rapidapi.com).
 * [Killer APIs for Hackathons](https://re.tc/fqq894do) — <Hack the Hackathon/> 100 Killer APIs for Hackathon Winners by [RapidAPI](https://rapidapi.com).
 
