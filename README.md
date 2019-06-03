@@ -40,6 +40,12 @@
 
 World's first ever all-day International Flutter™ Hackathon organised by over 2 dozen communities worldwide!
 
+<p align="center">
+    <a href="https://tiny.cc/flutterSG">
+        <img src="hack19-group-photo.jpg" alt="#Hack19: International Flutter Hackathon 2019 [Singapore Edition]"/>
+    </a>
+</p>
+
 * [Flutter Hackathon Global Registration](https://docs.google.com/forms/d/e/1FAIpQLSdnr863wtBp9c0EZ50MXF5vo8t4odhB9M7-vYR063AmWwpXYw/viewform) — global registration form for voting your favourite project all over the world created by [Flutter Hackathon](https://flutterhackathon.com).
 * [Flutter Hackathon YouTube Live Streaming](https://www.youtube.com/channel/UCNUzIz3TsiHSbgn_66kLIww) — global live streaming of Flutter hackathon hubs all over the world created by [Flutter Hackathon](https://flutterhackathon.com).
 * [Flutter Hackathon Getting Started](https://flutterhackathon.com/#getting-started) — getting started resources specially made for #Hack19: International Flutter Hackathon 2019 created by [Flutter Hackathon](https://flutterhackathon.com).
