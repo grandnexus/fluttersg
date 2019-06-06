@@ -76,10 +76,11 @@ Flutter is Google’s portable UI toolkit for building beautiful, natively-compi
 * [Flutter Official Website](https://flutter.dev) — flutter landing page with docs, showcase and community support created by [Flutter](https://github.com/flutter).
 * [Flutter YouTube Channel](https://youtube.com/flutterdev) — official flutter-related videos including flutter updates, tutorials and talks.
 * [Introduction to Flutter Webinar](https://www.youtube.com/watch?v=DoAlr0DUJYw) — introduction to Flutter video created by [Brian Egan](https://twitter.com/brianegan).
-* [What’s Revolutionary about Flutter](https://hackernoon.com/whats-revolutionary-about-flutter-946915b09514) — brief introduction to Flutter by [Hackernoon](https://hackernoon.com)
-* [The Magic of Flutter](https://docs.google.com/presentation/d/1qCLySOMfpeyl49JoHiYboG2pJXDt_ZFluyLISZ375lM/edit?usp=sharing) — brief introduction to Flutter by [Tim Messerschmidt](https://twitter.com/SeraAndroid)
-* [Let's Try Flutter](https://docs.google.com/presentation/d/1WWcopfXRsr5iWrHFYPNVC4rqykhf_sPEHhXVN_riefM) — brief introduction to Flutter by [GDG Ahmedabad](http://gdgahmedabad.com)
-* [Introduction to Dart VM](https://mrale.ph/dartvm) — a high-level overview of the Dart VM and then proceeds to describe various components of the VM in great details by [Vyacheslav Egorov](https://mrale.ph)
+* [What’s Revolutionary about Flutter](https://hackernoon.com/whats-revolutionary-about-flutter-946915b09514) — brief introduction to Flutter by [Hackernoon](https://hackernoon.com).
+* [The Magic of Flutter](https://docs.google.com/presentation/d/1qCLySOMfpeyl49JoHiYboG2pJXDt_ZFluyLISZ375lM/edit?usp=sharing) — brief introduction to Flutter by [Tim Messerschmidt](https://twitter.com/SeraAndroid).
+* [Let's Try Flutter](https://docs.google.com/presentation/d/1WWcopfXRsr5iWrHFYPNVC4rqykhf_sPEHhXVN_riefM) — brief introduction to Flutter by [GDG Ahmedabad](http://gdgahmedabad.com).
+* [Introduction to Dart VM](https://mrale.ph/dartvm) — a high-level overview of the Dart VM and then proceeds to describe various components of the VM in great details by [Vyacheslav Egorov](https://mrale.ph).
+* [Flutter Roadmap](https://github.com/flutter/flutter/wiki/Roadmap) — a high-level overview of the Flutter development roadmap by [Flutter](https://github.com/flutter).
 
 </article>
 
